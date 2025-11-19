@@ -13,10 +13,11 @@ To write a python program to find the inverse of a matrix
 
 ## Program:
 <img width="1340" height="577" alt="Screenshot (108)" src="https://github.com/user-attachments/assets/587ec015-e773-4727-9e5f-614d5c627818" />
-<img width="1274" height="245" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/eb814f1c-9841-4185-9754-189fa5f59c1a" />
 
 
 ## Output:
+<img width="1274" height="245" alt="Screenshot (109)" src="https://github.com/user-attachments/assets/eb814f1c-9841-4185-9754-189fa5f59c1a" />
+
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
 
